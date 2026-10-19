@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Omer 👋 <code>~/Kite-Bite</code></h1>
+<h1 align="center">Hi, I'm <code>~/Kite-Bite</code>👋</h1>
 
 <p align="center">
-  <em>B.Tech AI & Data Science student · Arch Linux + Hyprland tinkerer · building toward Data Science, ML, and Cybersecurity</em>
+  <em>B.Tech AI & Data Science student · building toward Data Science, ML, and Cybersecurity</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%7C%20ML-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Also%20into-CTFs%20%26%20Security-red?style=flat-square" />
 </p>
 
@@ -15,8 +13,7 @@
 
 ### 🧭 About Me
 
-- 🎓 2nd-year **B.Tech in AI & Data Science** at Sri Indu College of Engineering & Technology, Hyderabad
-- 🐧 Daily-driving **Arch Linux** with **Hyprland**, and I genuinely enjoy the yak-shaving that comes with it
+- 🎓 **B.Tech in AI & Data Science** at Sri Indu College of Engineering & Technology, Hyderabad
 - 📊 Building a portfolio in **data science / ML**, with hands-on **EDA, local LLM inference, and automation** projects
 - 🔐 Parallel track in **cybersecurity** — CTFs (PicoCTF → TryHackMe → HackTheBox), CVE triage, eventually OSCP
 - ⚙️ I like automating things I probably shouldn't spend time automating — and then writing up how it broke
