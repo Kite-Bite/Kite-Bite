@@ -13,13 +13,11 @@
 
 ### 🧭 About Me
 
-- 🎓 **B.Tech in AI & Data Science** at Sri Indu College of Engineering & Technology, Hyderabad
-- 📊 Building a portfolio in **data science / ML**, with hands-on **EDA, local LLM inference, and automation** projects
-- 🔐 Parallel track in **cybersecurity** — CTFs (PicoCTF → TryHackMe → HackTheBox), CVE triage, eventually OSCP
-- ⚙️ I like automating things I probably shouldn't spend time automating — and then writing up how it broke
-- 💬 Ask me about: Btrfs subvolumes, PAM modules, Wine/Lutris internals, or why my Bluetooth stopped working on a kernel update
-
----
+- 🎓 Pursuing a **B.Tech in Artificial Intelligence & Data Science** at Sri Indu College of Engineering & Technology, Hyderabad.
+- 🐧 Hands-on experience with **Linux and system administration fundamentals**, with an interest in scripting, automation, and troubleshooting.
+- 🔐 Developing skills in **cybersecurity**, particularly network security, web application security, vulnerability assessment, and secure software development.
+- 🐍 Building practical skills in **Python, Bash/Lua scripting, and AI/ML**, with an interest in local LLMs and automation projects.
+- 🛠️ Interested in solving technical problems, documenting findings, and building practical projects that strengthen my understanding of real-world systems.
 
 ### 🛠️ Tech & Tools
 
