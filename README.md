@@ -34,7 +34,7 @@
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Systems / Infra**
-![Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -50,6 +50,7 @@
 | Project | What it does |
 |---|---|
 | 🛡️ **[NetGuard](#)** | CVE-matched, plain-language security advisory platform for non-technical MSME operators — Raspberry Pi hardware bundle + optional SaaS. Submitted to MSME Idea Hackathon 6.0. |
+| 🚨 **[BlameLess](https://github.com/Kite-Bite/BlameLess)** | An on-call incident-diagnosis agent that remembers every outage — recalls past incidents from a persistent memory bank, diagnoses new ones from that history, and writes each blameless postmortem back so it improves over time. FastAPI + Hindsight. |
 | 🤖 **[Echo](https://github.com/Kite-Bite/Echo)** | A Jarvis-style personal automation assistant (Python) — work in progress, aiming to automate the boring stuff. |
 | 📺 **[Netflix-EDA](https://github.com/Kite-Bite/Netflix-EDA)** | Exploratory data analysis on the Netflix titles dataset — my first data science portfolio piece. |
 | 📄 **[Resume-Analyzer](https://github.com/Kite-Bite/Resume-Analyzer)** | A JavaScript tool for parsing and evaluating resumes. |
